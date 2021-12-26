@@ -8,7 +8,7 @@
 
 |            Name            | Student ID |      Email Address       |
 | :------------------------: | :--------: | :----------------------: |
-|     Yara Abdelmottaleb     |     -      |            -             |
+|     Yara Abdelmottaleb     |  5066359   |  yara.ala96@gmail.com    |
 |   Adedamola Ayodeji Sode   |     -      |            -             |
 | Omotoye Shamsudeen Adekoya |  5066348   | adekoyaomotoye@gmail.com |
 

@@ -9,7 +9,7 @@
 |            Name            | Student ID |      Email Address       |
 | :------------------------: | :--------: | :----------------------: |
 |     Yara Abdelmottaleb     |  5066359   |  yara.ala96@gmail.com    |
-|   Adedamola Ayodeji Sode   |     -      |            -             |
+|   Adedamola Ayodeji Sode   |  5360004   | adedamola.sode@yahoo.com |
 | Omotoye Shamsudeen Adekoya |  5066348   | adekoyaomotoye@gmail.com |
 
 ## Project Objectives

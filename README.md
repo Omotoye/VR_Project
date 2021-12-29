@@ -8,7 +8,7 @@
 
 |            Name            | Student ID |      Email Address       |
 | :------------------------: | :--------: | :----------------------: |
-|     Yara Abdelmottaleb     |  5066359   |  yara.ala96@gmail.com    |
+|     Yara Abdelmottaleb     |  5066359   |   yara.ala96@gmail.com   |
 |   Adedamola Ayodeji Sode   |  5360004   | adedamola.sode@yahoo.com |
 | Omotoye Shamsudeen Adekoya |  5066348   | adekoyaomotoye@gmail.com |
 
@@ -20,6 +20,13 @@ This project involves the development of a game idea (for a VR experience) that 
 
 ## Project Timeline
 
-| Milestone |                       Description                        | Member in Charge of the Task | Start Date | Completion Date |       Status       | Note |
-| :-------: | :------------------------------------------------------: | :--------------------------: | :--------: | :-------------: | :----------------: | ---- |
-|     0     | Official Start Data <br/>(Picked a Game Idea to Work on) |              -               | 16.11.2021 |        -        | :white_check_mark: | -    |
+| Milestone |                                                        Description                                                        | Member in Charge of the Task | Start Date | Completion Date |       Status       | Note                                                            |
+| :-------: | :-----------------------------------------------------------------------------------------------------------------------: | :--------------------------: | :--------: | :-------------: | :----------------: | --------------------------------------------------------------- |
+|     0     |                                Official Start Date <br/>_(Picked a Game Idea to Work on)_                                 |              -               | 16.11.2021 |        -        |         -          | -                                                               |
+|     1     |                             Changed the Storyline of the Game to suit the project requirement                             |              -               | 20.11.2021 |        -        |         -          | -                                                               |
+|     2     |                                           Changed the storyline again! :smile:                                            |              -               | 29.11.2021 |        -        |         -          | -                                                               |
+|     3     |                          Decided on the assets we would use for the project <br/> _(free/paid)_                           |              -               | 5.12.2021  |        -        |         -          | -                                                               |
+|     4     |                  Create a GitHub page for version control and add a git ignore for all the large assets                   |           Omotoye            | 26.12.2021 |   26.12.2021    | :white_check_mark: | -                                                               |
+|     5     |               Develop the Interaction between the main character and the game character in the first scene                |             Yara             | 27.12.2021 |   28.12.2021    | :white_check_mark: | -                                                               |
+|     6     | Design of the Environment for the first level of the game. <br/> _Only the part where the first interaction would happen_ |           Omotoye            | 25.12.2021 |   29.12.2021    | :white_check_mark: | Still needs a lot of aesthetic addition, _would be added later_ |
+|     7     |  Fetch all the required character assets, importing them in the scene and preping them for the interaction logic design   |          Adedamola           | 28.12.2021 |        -        |   :construction:   | work in progress                                                |
